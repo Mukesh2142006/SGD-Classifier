@@ -21,8 +21,8 @@ Generate Confusion Matrix
 ## Program:
 ```
 Program to implement the prediction of iris species using SGD Classifier.
-Developed by: Praveen kumar G
-RegisterNumber:  212222080040
+Developed by: MUKESH B
+RegisterNumber:  212223230128
 ```
 ```
 
